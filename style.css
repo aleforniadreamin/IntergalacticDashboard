@@ -1,0 +1,21 @@
+body {
+    background-color: #232a2e;
+}
+
+td {
+    border: 5px solid black;
+    font-size: 100px;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: #b90000;
+    color: #eaeae8;
+    text-align: center;
+}
+
+.fire {
+    background-color: white;
+}
